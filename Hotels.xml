@@ -6,7 +6,7 @@
     <Name>Westin Tempe</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -19,7 +19,7 @@
   <Hotel Rating="4.0">
     <Name>DoubleTree</Name>
     <Phone>602-997-5900</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>10220</Number>
       <Street>N Metro Pkwy E</Street>
       <City>Phoenix</City>
@@ -31,7 +31,7 @@
   <Hotel>
     <Name>Hilton Phoenix Tapatio Cliffs Resort</Name>
     <Phone>602-866-7500</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>11111</Number>
       <Street>N 7th St</Street>
       <City>Phoenix</City>
@@ -43,7 +43,7 @@
   <Hotel Rating="4.0">
     <Name>Hyatt Regency</Name>
     <Phone>480-345-6789</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>303</Number>
       <Street>Broadway</Street>
       <City>Phoenix</City>
@@ -55,7 +55,7 @@
   <Hotel Rating="3.7">
     <Name>Comfort Inn West Phoenix</Name>
     <Phone>602-415-1623</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>1344</Number>
       <Street>N 27th Ave</Street>
       <City>Phoenix</City>
@@ -67,7 +67,7 @@
   <Hotel Rating="4.4">
     <Name>Hampton Inn</Name>
     <Phone>602-956-5221</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>2310</Number>
       <Street>E Highland Ave</Street>
       <City>Phoenix</City>
@@ -79,7 +79,7 @@
   <Hotel Rating="4.6">
     <Name>InterContinental Hotel</Name>
     <Phone>480-678-9012</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>606</Number>
       <Street>Roosevelt St</Street>
       <City>Phoenix</City>
@@ -91,7 +91,7 @@
   <Hotel>
     <Name>Embassy Suites</Name>
     <Phone>602-955-3922</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>2630</Number>
       <Street>E Camelback Rd</Street>
       <City>Phoenix</City>
@@ -103,7 +103,7 @@
   <Hotel Rating="4.8">
     <Name>Four Seasons</Name>
     <Phone>480-890-1234</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>808</Number>
       <Street>Jefferson St</Street>
       <City>Phoenix</City>
@@ -115,7 +115,7 @@
   <Hotel Rating="4.7">
     <Name>Waldorf Astoria</Name>
     <Phone>480-901-2345</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>909</Number>
       <Street>Madison Ave</Street>
       <City>Phoenix</City>
@@ -127,7 +127,7 @@
   <Hotel Rating="4.3">
     <Name>Fairfield Inn</Name>
     <Phone>623-936-6603</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>9033</Number>
       <Street>W McDowell Rd</Street>
       <City>Tolleson</City>
